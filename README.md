@@ -2,7 +2,7 @@
 
 This repository contains the latest version of Laravel 5.8. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
 
-## Laravel Shift
+## Laravel Shift:
 *Laravel Shift* focuses on providing automated and [human services](https://laravelshift.com/human-services) for upgrading and improving your Laravel applications.
 
 Shifts for *Laravel* include:
